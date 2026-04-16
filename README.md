@@ -4,22 +4,6 @@ Sou estudante de **Bacharelado em Tecnologia da Informação** na **UFRN**, com 
 
 Acredito que um desenvolvedor fullstack de verdade não é aquele que sabe um pouco de tudo, mas aquele que domina os fundamentos e sabe como as peças se encaixam. Por isso, cada tecnologia que estudo tem um propósito claro no caminho.
 
-> 🎯 **Objetivo:** dominar o backend com Node.js, TypeScript e PostgreSQL — e depois conectar tudo com React no front.
-
-<br>
-
-## 🗺️ Roadmap
-
-| # | Etapa | Status |
-|---|-------|--------|
-| 1 | Base de frontend — HTML · CSS · JavaScript | ✅ Concluído |
-| 2 | Backend com Node.js · TypeScript · APIs RESTful · Estruturas de dados | 🔵 Em andamento |
-| 3 | Banco de dados relacional — PostgreSQL · modelagem · queries | ⬜ Próximo |
-| 4 | Frontend moderno — React · consumo de APIs · integração com backend | ⬜ Planejado |
-| 5 | Fullstack completo — projetos do zero · deploy · arquitetura ponta a ponta | 🟣 Objetivo final |
-
-<br>
-
 ## 🛠️ Linguagens & Áreas
 
 <div align="center">
