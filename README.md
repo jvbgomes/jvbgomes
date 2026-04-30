@@ -1,70 +1,65 @@
-## Olá! Bem-vindo ao meu Git 👋
+## Olá! Bem-vindo ao meu perfil 👋
 
-Sou estudante de **Bacharelado em Tecnologia da Informação** na **UFRN**, com o objetivo de me tornar desenvolvedor **fullstack**. Minha jornada começa pelo backend — quero entender profundamente como sistemas funcionam antes de conectar as duas pontas.
+🎓 Estudante de Bacharelado em Tecnologia da Informação na UFRN.
+💡 Focado em backend, buscando entender como os sistemas funcionam por dentro antes de conectar as duas pontas. Acredito que dominar os fundamentos é o que faz a diferença no longo prazo.
 
-Acredito que um desenvolvedor fullstack de verdade não é aquele que sabe um pouco de tudo, mas aquele que domina os fundamentos e sabe como as peças se encaixam. Por isso, cada tecnologia que estudo tem um propósito claro no caminho.
+---
 
-## 🛠️ Linguagens & Áreas
+## 🛠️ Linguagens e Ferramentas
+
+- **Backend:**
+
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+- **Database:**
+
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+- **Frontend:**
+
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+- **Fullstack:**
+
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+- **Infra:**
+
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+- **Ferramentas:**
+
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+- **Sistemas:**
+
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+> 💡 *PostgreSQL, React, Next.js e Docker ainda em aprendizado.*
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-
-  <table>
-    <tr>
-      <th>Frontend</th>
-      <th>Backend </th>
-      <th>Sistemas</th>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" alt="TypeScript"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React"/>
-        <br>
-        <sub>HTML5 &nbsp;|&nbsp; CSS3 &nbsp;|&nbsp; JavaScript &nbsp;|&nbsp; React *</sub>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="50" alt="Node.js"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" alt="TypeScript"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
-        <br>
-        <sub>Node.js * &nbsp;|&nbsp; TypeScript * &nbsp;|&nbsp; PostgreSQL * &nbsp;|&nbsp; Python</sub>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" alt="C"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" alt="C++"/>
-        <br>
-        <sub>C &nbsp;|&nbsp; C++</sub>
-      </td>
-    </tr>
-  </table>
-
-  <sub>* em aprendizado</sub>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvbgomes&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=jvbgomes&theme=github-dark-blue&hide_border=true&locale=pt_BR"/>
 </div>
 
-<br>
-
-## 🎓 Faculdade — UFRN
-
-Atualmente trabalhando com **C** em disciplinas de programação e iniciando **C++** — meu primeiro contato com orientação a objetos. Estudar OOP em C++ está me dando uma base conceitual sólida que se conecta diretamente com TypeScript e o desenvolvimento backend.
-
-<br>
+---
 
 ## 📬 Contato
 
-<p align="center">
-  <a href="https://www.instagram.com/joaovbgg/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-bezerra-gomes-9a8240362/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
-<!--
-**jvbgomes/jvbgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaovbgg/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovbgomes/)
